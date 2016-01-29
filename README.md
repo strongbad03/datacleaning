@@ -1,5 +1,3 @@
-You should include a README.md in the repo describing how the script works and the code book describing the variables.
-
 # JHU Getting & Cleaning Data
 The "run.analysis.R" summaries the UCI wearables dataset available [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and described [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The script downloads the data and unpacks into a 'data' directory. The following operations are then performed on the data:
     * Testing, training, and subject datasets are read from text files.
